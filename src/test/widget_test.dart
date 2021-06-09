@@ -5,7 +5,7 @@ import 'package:new_app/main.dart';
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // arrange
-    var app = MyApp();
+    var app = App();
 
     // act
     await tester.pumpWidget(app);
