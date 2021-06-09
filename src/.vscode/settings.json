@@ -17,5 +17,8 @@
         "web" : true,
         "new_app.iml" : true,
         "windows" : true
-    }
+    },
+    "cSpell.words": [
+        "cupertino"
+    ]
 }
